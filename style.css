@@ -34,6 +34,7 @@ html,body{
     height: 175px;
     /* background-color: yellow; */
     position: absolute;
+    overflow:hidden;
 }
 
 .throttlediv .images{
